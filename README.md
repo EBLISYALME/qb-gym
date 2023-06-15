@@ -84,7 +84,7 @@ Config.Locations = {
 
 ## Issues ? 
  * [telegram](https://t.me/ATLAS_TEAMM)
- * [Issues Page](https://github.com/EBLISYALME/qb-RichPresence/issues)
+ * [Issues Page](https://github.com/EBLISYALME/qb-gym/issues)
 #### Like the project? Leave a star on the repository!
 
 ## Video Tutorial
